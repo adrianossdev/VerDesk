@@ -1,0 +1,35 @@
+html, body{
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	width: 100%;
+	background-color: #F5F5F5;
+}
+
+header{
+	top: 0;
+	width: 100%;
+}
+footer{
+	width: 100%;
+	height: 5%;
+	position: fixed;
+	bottom: 0;
+}
+
+.logo{
+	height: 100px;
+	padding-top:  20px;
+}
+
+.acesso{
+	margin: auto;
+}
+.cartao {
+		border-radius: 10px;
+}
+
+.construcao{
+	width: 500px;
+	height: 500px;
+}
